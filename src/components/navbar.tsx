@@ -7,7 +7,7 @@ const Navbar: React.FC = () => {
 
   return (
     <nav className="bg-gray-800 text-white p-4 flex justify-between items-center">
-      <div className="text-2xl font-bold">Dustin Bedaña Diza</div>
+      <div className="text-2xl font-bold">Portfolio of Dustin Bedaña Diza</div>
 
       {/* Links de escritorio */}
       <ul className="hidden md:flex space-x-6">
