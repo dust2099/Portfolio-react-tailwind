@@ -6,7 +6,7 @@ const Navbar: React.FC = () => {
   const links = ['Home', 'About', 'Projects', 'Contact']
 
   return (
-    <nav className="bg-gray-800 text-white p-4 flex justify-between items-center">
+    <nav className="bg-gray-600 text-white p-4 flex justify-between items-center">
       <div className="text-2xl font-bold">Portfolio of Dustin Bedaña Diza</div>
 
       {/* Links de escritorio */}
