@@ -1,6 +1,5 @@
 // Home.tsx
 import profileimg from '../assets/images/profile.png';
-import { logos } from '../data/data';
 import LogosCarousel from '../components/LogosCarousel'; // Ajusta la ruta según tu estructura
 
 function Home() {
