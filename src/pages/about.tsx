@@ -2,7 +2,7 @@ import { FaGraduationCap, FaLanguage, FaCode, FaUsers } from "react-icons/fa";
 
 function About() {
     return (
-        <section id="about" className="min-h-screen p-8 bg-gray-700 flex flex-col items-center">
+        <section id="about" className=" pt-25 min-h-screen p-8 bg-gray-700 flex flex-col items-center">
             <h2 className="text-4xl font-bold mb-8 text-white tracking-wide border-b-2 border-blue-600 pb-2 w-full max-w-2xl text-center">Sobre mí</h2>
             <div className="max-w-2xl w-full bg-gray-800 rounded-xl shadow-lg p-8 mb-8">
                 <p className="text-lg text-gray-200 mb-4">
